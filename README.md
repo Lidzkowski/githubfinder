@@ -1,5 +1,5 @@
-# Githyb finder
+# Github finder
 
-## Search for info and latest repos of a user
+## Search Github users with personal info and latest repo's
 
 [link](https://lidzkowski.github.io/githubfinder/)
